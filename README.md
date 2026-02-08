@@ -22,8 +22,7 @@ This project explores the relationship between market psychology (Bitcoin Fear &
 * **Python:** Pandas, Matplotlib, Seaborn.
 * **Analysis:** Time-series merging, sentiment classification, and PnL aggregation.
 
-## 📈 Performance Visual
-![Average Daily PnL by Sentiment](outputs/average_daily_pnl_by_sentiment.png)
 
----
+
+
 
